@@ -31,7 +31,7 @@
 packages:
 
   remote_package:
-    url: http://github.com/konnected-io/konnected-esphome
+    url: http://github.com/marcelklopper/konnected-esphome
     ref: master
     refresh: 5min
     files:
