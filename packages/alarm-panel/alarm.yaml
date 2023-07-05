@@ -1,6 +1,6 @@
 switch:   
 
-  - id: alarm0
+  - id: alarm
     name: Alarm
     pin: $alarm
     platform: gpio
